@@ -1,4 +1,4 @@
-### Hi there 👋
+### 위즈/이슬기
 
 <!--
 **leeseulgi0208/leeseulgi0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
